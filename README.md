@@ -21,7 +21,7 @@
 **Data de Entrega:** 01/04 <br/>
 **Atributos:** 
 - [Estrutura Banco de Dados](DATABASE.md)
-
+- [Protótipo de Baixa Fidelidade](GEM.pdf)
 <br/>
 
 ### 2° Etapa - Protótipo de Média Fidelidade - Figma (Sem Código)
