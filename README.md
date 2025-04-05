@@ -22,6 +22,7 @@
 **Atributos:** 
 - [Estrutura Banco de Dados](DATABASE.md)
 - [Protótipo de Baixa Fidelidade](GEM.pdf)
+- [Propostas de Logo](Logos)
 <br/>
 
 ### 2° Etapa - Protótipo de Média Fidelidade - Figma (Sem Código)
