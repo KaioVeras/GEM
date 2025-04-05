@@ -18,5 +18,14 @@
 
 ## Etapas
 ### 1° Etapa - Protótipo de Baixa Fidelidade - Papel
-**Data de Entrega:** 01/04
-**Atributos:** (Estrutura Banco de Dados)[DATABASE.md]
+**Data de Entrega:** 01/04 <br/>
+**Atributos:** 
+- [Estrutura Banco de Dados](DATABASE.md)
+
+<br/>
+
+### 2° Etapa - Protótipo de Média Fidelidade - Figma (Sem Código)
+
+### 3° Etapa - Protótipo Funcional - Mínimo 30% (Projeto em HTML, CSS e JavaScript)
+
+### 4° Etapa - Pitch do Protótipo - Apresentação do Projeto (2 pessoas do grupo)
