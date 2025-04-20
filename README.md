@@ -27,6 +27,7 @@
 
 ### 2° Etapa - Protótipo de Média Fidelidade - Figma (Sem Código)
 - [Protótipo de Média Fidelidade](https://www.figma.com/design/EKNn9umNDLaixu5CAc3uPc/GEM?m=auto&t=pWUbBmWAGV1gtfOs-6)
+- [Canvas - Modelo de Negócios](Canvas.pdf)
 
 ### 3° Etapa - Protótipo Funcional - Mínimo 30% (Projeto em HTML, CSS e JavaScript)
 
