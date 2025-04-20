@@ -15,6 +15,7 @@
 - Kaio Veras
 - Lucas Sousa
 - Marcio Alves
+- Lucas Fortes
 
 ## Etapas
 ### 1° Etapa - Protótipo de Baixa Fidelidade - Papel
