@@ -4,7 +4,7 @@
 
 ## 📚 Tema e Grupo
 
-**Tema:** Gestão e Visualização de Dados em Interface
+**Tema:** Gestão e Visualização de Dados em Interface <br>
 **Área:** Sistema de Gerenciamento de Banco de Dados Escolar
 
 **Componentes do Grupo:**
