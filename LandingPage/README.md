@@ -1,73 +1,84 @@
-# Welcome to your Lovable project
+# 🚀 Landing Page - Projeto Acadêmico
 
-## Project info
+## 🌟 Bem-vindos ao nosso projeto!
 
-**URL**: https://lovable.dev/projects/7b6d22ca-e9bd-4501-8fe8-8623676605e4
+Olá! Esta é a **Landing page** do sistema GEM - Gerenciamento Escolar Modular. Essa página serve como uma vitrini elegante e moderna para apresentar nosso projeto de forma profissinal e atrativa.
 
-## How can I edit this code?
+## ✨ Sobre o Sistema
 
-There are several ways of editing your application.
+Esta landing page foi criada para ser a porta de entrada do nosso sistema acadêmico. Ela apresenta de forma clara e visualmente atraente todas as funcionalidades e características do projeto que desenvolvemos durante o curso.
 
-**Use Lovable**
+## 💖 Destaque Especial: Lovable.ia
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/7b6d22ca-e9bd-4501-8fe8-8623676605e4) and start prompting.
+Queremos fazer um destaque especial para o **Lovable.ia** 🌟, uma ferramenta incrível que nos permitiu criar esta landing page de forma rápida, eficiente e com resultados profissionais. O Lovable.ia utiliza inteligência artificial para gerar código de alta qualidade, tornando o desenvolvimento muito mais ágil e acessível.
 
-Changes made via Lovable will be committed automatically to this repo.
+**Recomendamos fortemente esta ferramenta!** ⚡ Ela revolucionou nossa forma de desenvolver interfaces web e nos permitiu focar no que realmente importa: a lógica e funcionalidades do nosso sistema.
 
-**Use your preferred IDE**
+## 💻 Como Editar o Código
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🌟 Método Recomendado: Lovable.dev
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+A forma mais fácil e eficiente de editar este projeto é através do próprio **Lovable.dev**:
 
-Follow these steps:
+- 🔗 **Link direto do projeto**: [https://lovable.dev/projects/7b6d22ca-e9bd-4501-8fe8-8623676605e4](https://lovable.dev/projects/7b6d22ca-e9bd-4501-8fe8-8623676605e4)
+- ✍️ Basta acessar o link e começar o prompting
+- 💾 As mudanças são salvas automaticamente no repositório
+- ⚡ Visualização em tempo real das alterações
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 👩‍💻 Usando seu IDE Local
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Se preferir trabalhar localmente usando seu IDE favorito:
 
-# Step 3: Install the necessary dependencies.
+**Pré-requisito**: Node.js & npm instalados - [instale com nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+
+```bash
+# Passo 1: Clone o repositório
+git clone https://github.com/KaioVeras/GEM.git
+
+# Passo 2: Navegue para o diretório do projeto
+cd GEM/LandingPage
+
+# Passo 3: Instale as dependências
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Passo 4: Inicie o servidor de desenvolvimento
 npm run dev
 ```
+### ☁️ Usando GitHub Codespaces
 
-**Edit a file directly in GitHub**
+1. Navegue até a página principal do repositório
+2. Clique no botão "Code" (botão verde) próximo ao canto superior direito
+3. Selecione a aba "Codespaces"
+4. Clique em "New codespace" para iniciar um ambiente Codespace
+5. Edite os arquivos diretamente no Codespace e faça commit/push das suas alterações
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🛠️ Tecnologias Utilizadas
 
-**Use GitHub Codespaces**
+Este projeto foi construído com tecnologias modernas e poderosas:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- **Vite** ⚡ - Build tool ultra-rápido
+- **TypeScript** 💻 - JavaScript com tipagem estática
+- **React** ⚛️ - Biblioteca para interfaces de usuário
+- **shadcn-ui** 🎨 - Componentes UI elegantes e acessíveis
+- **Tailwind CSS** 💨 - Framework CSS utilitário
 
-## What technologies are used for this project?
+## 🌐 Como Publicar
 
-This project is built with:
+Para publicar seu projeto:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+1. Abra o [Lovable.dev](https://lovable.dev)
+2. Clique em **Share** → **Publish**
+3. Pronto! Seu projeto estará online! 🚀
 
-## How can I deploy this project?
+## 🌟 Domínio Personalizado
 
-Simply open [Lovable](https://lovable.dev/projects/7b6d22ca-e9bd-4501-8fe8-8623676605e4) and click on Share -> Publish.
+Você pode conectar um domínio personalizado ao seu projeto Lovable!
 
-## Can I connect a custom domain to my Lovable project?
+**Como fazer:**
+1. Navegue para **Project** > **Settings** > **Domains**
+2. Clique em **Connect Domain**
 
-Yes, you can!
+📖 **Documentação completa**: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
