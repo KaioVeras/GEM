@@ -32,4 +32,6 @@
 
 ### 3° Etapa - Protótipo Funcional - Mínimo 30% (Projeto em HTML, CSS e JavaScript)
 
+- [Landing Page](LandingPage/)
+
 ### 4° Etapa - Pitch do Protótipo - Apresentação do Projeto (2 pessoas do grupo)
