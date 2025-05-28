@@ -33,11 +33,6 @@ const LandingPage = () => {
           </nav>
           
           <div className="flex items-center space-x-4">
-            <Link to="/">
-              <Button variant="outline" size="sm" className="hidden md:inline-flex">
-                Entrar
-              </Button>
-            </Link>
             <Button size="sm">Demonstração</Button>
           </div>
         </div>
@@ -211,7 +206,7 @@ const LandingPage = () => {
                   <h4 className="font-bold mb-2 text-center text-white">Dashboard do Professor</h4>
                   <AspectRatio ratio={16 / 10}>
                     <img 
-                      src="src/Images/imgDashboardProf.png" 
+                      src="https://i.im.ge/2025/05/28/vJiUyK.imgDashboardProf.png" 
                       alt="Dashboard do Professor" 
                       className="rounded object-cover" 
                     />
@@ -224,7 +219,7 @@ const LandingPage = () => {
                   <h4 className="font-bold mb-2 text-center text-white">Portal do Aluno</h4>
                   <AspectRatio ratio={16 / 10}>
                     <img 
-                      src="src/Images/imgDashboardAluno.png"   
+                      src="https://i.im.ge/2025/05/28/vJidWJ.imgDashboardAluno.png"   
                       alt="Portal do Aluno" 
                       className="rounded object-cover" 
                     />
